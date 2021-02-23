@@ -1,0 +1,89 @@
+
+
+.container-newUser{
+
+    background-image: linear-gradient(to right top, #370526, #3f072d, #470934, #500c3b, #580f43);
+    border: 1px solid blanchedalmond;
+    width: 400px;
+    height: auto;
+    margin-left:450px; 
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px 1px wheat;   
+    font-family:Arial, Helvetica, sans-serif;
+    
+
+}
+.container-newUser h1{
+    font-size: 20px;
+    margin-top: 15px;
+    color:whitesmoke;
+    text-align: center;
+}
+
+.hr-newUser{
+    background-color:rgb(202, 196, 196);
+}
+
+.form-newUser{
+    margin-top: 10px;
+
+}
+
+.div-input-1 label{
+    font-weight: 200;
+    color: whitesmoke;
+    margin-left: 25px;
+    margin-top: 8px;
+}
+
+.div-input-1 input{
+    margin-top: 5px;
+    display: block;
+    width: 350px;
+    margin-left:25px ;
+    border-radius: 5px;
+}
+
+.button-newUser{
+    width: 100px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+    background-color:transparent;
+    border:1px solid  seagreen;
+    border-radius: 7px;
+    color:whitesmoke;
+}
+
+.button-newUser:hover{
+
+    background-color: seagreen;
+    box-shadow: 0px 0px 20px 1px seagreen;
+    margin-bottom: 10px;
+    padding-bottom:10px;
+}
+
+.div-lookPass{
+    text-align: center;
+    margin-top: 20px;
+    display: inline-block; 
+    margin-left: 50px;
+
+}
+
+.div-lookPass input{
+    width: 30px;
+    display: inline-block;
+
+
+}
+.div-lookPass h6{
+    color: white;
+    text-align: center;
+    margin-left: 20px;
+    font-size: 13px;
+    display: inline-block;
+}
+
+
+

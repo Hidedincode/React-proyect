@@ -1,0 +1,52 @@
+
+
+.div-header{
+    width: 90%;
+    height: 400px;   
+    margin-bottom: 100px;
+}   
+
+.div-header h3{
+    color: whitesmoke;
+    margin-left: 290px;
+    border-bottom: 1px solid yellow;
+    display: inline-block;
+    margin-bottom: 10px;
+    
+}
+.div-header p{
+    color: whitesmoke;
+    margin-left: 290px;
+}
+
+
+.imag-header{
+    margin-left: 290px;
+    width: 800px;
+    height: 400px;
+    border-radius: 2px;
+    border: solid 1px blanchedalmond;
+
+}
+
+.button-header{
+    border:1px whitesmoke solid ;
+    display: inline-block;
+    margin-left: 640px;
+    margin-top: 20px;
+
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    text-decoration: none;
+    color:black;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+
+}
+
+.button-header:hover{
+    color:blanchedalmond;
+    text-decoration: none;
+    background-color: black;
+}

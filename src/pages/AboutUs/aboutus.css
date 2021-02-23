@@ -1,0 +1,27 @@
+
+
+
+.div-aboutus{
+    text-align: center;
+    width: 90%;
+    margin-left: 50px;
+}
+
+.div-aboutus p {
+    color: blanchedalmond;
+    margin-top: 40px;
+}
+
+.about-us h1{
+    color: whitesmoke;
+    display: inline;
+    border-bottom: solid 1px yellow;
+    
+    
+}
+.about-us{
+    margin-top:50px ;
+}
+.about-us p {
+    color: blanchedalmond;
+}

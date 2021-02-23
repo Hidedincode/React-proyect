@@ -1,0 +1,65 @@
+[   
+    {
+      
+      "id": 1,
+      "imag": "black-label.png",
+      "name": "Black Label",
+      "price": "$700"
+
+    },
+    { 
+      "id": 2,
+      "imag": "../images/coca.png",
+      "name": "Coca cola",
+      "price": "$130"      
+    },
+    {
+      "id": 3,
+      "imag": "../images/quilmes-lata.png",
+      "name": "Quilmes Lata",
+      "price": "$90"  
+    },
+    {
+      "id": 4,
+      "imag": "../images/bombai.png",
+      "name": "Bombai",
+      "price": "$3580"  
+    },
+    {
+      "id": 5,
+      "imag": "../images/fernet-coca.png",
+      "name": "Combo Fernet y Coca",
+      "price": "$800"  
+    },
+    {
+      "id": 6,
+      "imag": "../images/imperial.png",
+      "name": "Imperial lata",
+      "price": "$100"  
+    },
+    {
+      "id": 7,
+      "imag": "../images/jack-danniel.png",
+      "name": "Jack Danniel",
+      "price": "$900"  
+    },
+    {
+      "id": 8,
+      "imag": "../images/quilmes-lata.png",
+      "name": "Quilmes lata",
+      "price": "$130"  
+    },
+    {
+      "id": 9,
+      "imag": "../images/sangria.png",
+      "name": "Sangria",
+      "price": "$500"  
+    },
+    {
+      "id": 10,
+      "imag": "../images/speed.png",
+      "name": "Speed",
+      "price": "$100"  
+    }
+]
+  

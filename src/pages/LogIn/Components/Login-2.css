@@ -1,0 +1,31 @@
+
+.welcome{
+
+    width: 500px;
+    height: 200px;
+    margin-left: 500px;
+}
+
+
+.welcome2 h2 {
+    color: blanchedalmond;
+
+}
+
+.welcome2 button{
+
+    width: 100px;
+    height: 50px;
+    color: blanchedalmond;
+    background-color: black;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+}
+
+.welcome2 button:hover {
+
+    color:black;
+    background-color: whitesmoke;
+
+}
